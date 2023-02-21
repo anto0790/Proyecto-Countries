@@ -1,0 +1,9 @@
+#containerCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    border: 2px solid black;
+    border-radius: 10px;
+    gap: 1em;
+    margin: 30px;
+}
